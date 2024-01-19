@@ -5,6 +5,8 @@ The notebook is divided into 4 main chapters:
 2. Classification: both multi-class and binary classification, on the unbalanced dataset and on a balanced version
 3. Clustering 
 4. Anomaly Detection
+
+
 The following models are implemented using Python:
 - Classification:
   - Linear: Logistic Regression, GaussianNB, Linear SVC
